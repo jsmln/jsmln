@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/jasmin-esperida">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ATLAS+%E2%80%94+LLM-driven+EdTech+for+PH+HEIs;Full-Stack+Dev+%7C+React+%C2%B7+Django+%C2%B7+PostgreSQL;Turning+data+into+decisions,+one+dashboard+at+a+time;Badminton+player+%F0%9F%8F%B8+%C2%B7+Coffee+painter+%E2%98%95&font=Fira%20Code&center=true&width=600&height=45&duration=3200&pause=900&color=4ADE80&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ATLAS+%E2%80%94+LLM-driven+EdTech+for+PH+HEIs;Full-Stack+Dev+%7C+React+%C2%B7+Django+%C2%B7+PostgreSQL; Turning+data+into+decisions,+one+dashboard+at+a+time ;Badminton+player+%F0%9F%8F%B8+%C2%B7+%E2%98%95&font=Fira%20Code&center=true&width=600&height=45&duration=3200&pause=900&color=4ADE80&vCenter=true&size=20" />
 </a>
 
 <br/><br/>
