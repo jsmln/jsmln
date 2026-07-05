@@ -47,6 +47,7 @@ class Jasmin:
         "LLM-integrated web platforms with RAG + CoT architecture",
         "Prescriptive analytics pipelines for real-world institutional problems",
         "Multi-tenant PaaS systems with Django REST + React.js"
+        "Mobile Application Development"
     ]
 
     interests = [
@@ -57,12 +58,14 @@ class Jasmin:
     ]
 
     fun_facts = [
-        "Competitive badminton player 🏸",
+        "Plays Badminton🏸",
         "Sleep is my love language 😴",
-        "Won 1st place in a coffee painting competition ☕🎨"
+        "Swimming is my safe space",
+        "Art is my Life --Art itself, and a person--my Isabel<3",
+        
     ]
 
-    reach_me_at = "jasmin.esperida@gmail.com"
+    reach_me_at = "esperidajasmin06@gmail.com"
 ```
 
 </td></tr>
