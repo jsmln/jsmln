@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=166534,14532d&height=200&section=header&text=Jasmin%20B.%20Esperida&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%20%7C%20%20LLM%20Integration%20%20%7C%20%20Data%20Analytics&descColor=bbf7d0&descSize=16&descAlign=50&descAlignY=58&animation=twinkling" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f0f,50:166534,100:22c55e&height=220&section=header&text=Jasmin%20B.%20Esperida&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%20%C2%B7%20%20LLM%20Integration%20%20%C2%B7%20%20Data%20Analytics&descColor=bbf7d0&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
+<a href="https://linkedin.com/in/jasmin-esperida">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ATLAS+%E2%80%94+LLM-driven+EdTech+for+PH+HEIs;Full-Stack+Dev+%7C+React+%C2%B7+Django+%C2%B7+PostgreSQL;Turning+data+into+decisions,+one+dashboard+at+a+time;Badminton+player+%F0%9F%8F%B8+%C2%B7+Coffee+painter+%E2%98%95&font=Fira%20Code&center=true&width=600&height=45&duration=3200&pause=900&color=4ADE80&vCenter=true&size=20" />
+</a>
+
+<br/><br/>
 
 ```
   Final-year BSIT student · Major in Business Analytics
@@ -16,17 +18,22 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jasmin--esperida-166534?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasmin-esperida)
-[![Email](https://img.shields.io/badge/Email-jasmin.esperida%40gmail.com-166534?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasmin.esperida@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jsmln-166534?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsmln)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jasmin--esperida-166534?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1f0f)](https://linkedin.com/in/jasmin-esperida)
+[![Email](https://img.shields.io/badge/Email-jasmin.esperida%40gmail.com-166534?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1f0f)](mailto:jasmin.esperida@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jsmln-166534?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1f0f)](https://github.com/jsmln)
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
 
 ## 👩‍💻 &nbsp; About Me
+
+<table width="100%">
+<tr><td>
 
 ```python
 class Jasmin:
@@ -58,97 +65,82 @@ class Jasmin:
     reach_me_at = "jasmin.esperida@gmail.com"
 ```
 
+</td></tr>
+</table>
+
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
 
 ## 🛠️ &nbsp; Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-166534?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-14532d?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-166534?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-16a34a?style=flat-square&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-14532d?style=flat-square&logo=dart&logoColor=white)
-![R](https://img.shields.io/badge/R-166534?style=flat-square&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-16a34a?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,php,javascript,dart,r,cpp&theme=dark" />
 
-<br/>
+<br/><br/>
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React.js-166534?style=flat-square&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-14532d?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-166534?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-16a34a?style=flat-square&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-14532d?style=flat-square&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-166534?style=flat-square&logo=mui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,django,flutter,tailwind,materialui&theme=dark" />
 
-<br/>
+<br/><br/>
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-166534?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-14532d?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+&nbsp;&nbsp;
 ![pgvector](https://img.shields.io/badge/pgvector-16a34a?style=flat-square&logoColor=white)
 ![pgcrypto](https://img.shields.io/badge/pgcrypto-166534?style=flat-square&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+<br/><br/>
 
 **AI & LLM Integration**
 
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-166534?style=flat-square&logoColor=white)
 ![CoT](https://img.shields.io/badge/Chain--of--Thought_Prompting-14532d?style=flat-square&logoColor=white)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-16a34a?style=flat-square&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude_API-166534?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-16a34a?style=flat-square&logoColor=white)
+![Claude API](https://img.shields.io/badge/Anthropic_Claude_API-166534?style=flat-square&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-14532d?style=flat-square&logoColor=white)
 
-<br/>
+<br/><br/>
 
 **Data & Analytics**
 
-![PowerBI](https://img.shields.io/badge/Power_BI-166534?style=flat-square&logo=powerbi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
+&nbsp;&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-14532d?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-16a34a?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-166534?style=flat-square&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-14532d?style=flat-square&logo=googlecolab&logoColor=white)
 
-<br/>
+<br/><br/>
 
-**Backend & Infrastructure**
+**Backend, Cloud & DevOps**
 
+<img src="https://skillicons.dev/icons?i=redis,nginx,docker,githubactions&theme=dark" />
+&nbsp;&nbsp;
 ![Celery](https://img.shields.io/badge/Celery-166534?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-14532d?style=flat-square&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-16a34a?style=flat-square&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-166534?style=flat-square&logo=gunicorn&logoColor=white)
 ![Java RMI](https://img.shields.io/badge/Java_RMI-14532d?style=flat-square&logoColor=white)
-
-<br/>
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-166534?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14532d?style=flat-square&logo=githubactions&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-16a34a?style=flat-square&logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-166534?style=flat-square&logo=cloudflare&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
 
 ## 📂 &nbsp; Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -227,25 +219,33 @@ Client-server HRMS using Java RMI with Swing GUI, DTOs, remote interfaces, and p
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
 
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jsmln&show_icons=true&theme=dark&title_color=4ade80&icon_color=22c55e&text_color=ffffff&bg_color=0a1f0f&border_color=166534&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jsmln&show_icons=true&theme=transparent&title_color=4ade80&icon_color=22c55e&text_color=e5e7eb&border_color=166534&count_private=true&hide_border=false" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmln&layout=compact&theme=dark&title_color=4ade80&text_color=ffffff&bg_color=0a1f0f&border_color=166534&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmln&layout=compact&theme=transparent&title_color=4ade80&text_color=e5e7eb&border_color=166534&langs_count=8&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jsmln&theme=dark&background=0a1f0f&border=166534&ring=16a34a&fire=22c55e&currStreakLabel=4ade80&sideLabels=4ade80&dates=aaaaaa" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jsmln&theme=transparent&background=00000000&border=166534&ring=16a34a&fire=22c55e&currStreakLabel=4ade80&sideLabels=4ade80&dates=aaaaaa&hide_border=false" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jsmln&theme=react-dark&hide_border=true&bg_color=00000000&color=4ade80&line=22c55e&point=bbf7d0&area=true&area_color=166534" width="100%" />
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
 
 ## 🏅 &nbsp; Awards & Recognition
 
@@ -268,8 +268,6 @@ Client-server HRMS using Java RMI with Swing GUI, DTOs, remote interfaces, and p
 
 <br/>
 
----
-
 ## 🎓 &nbsp; Scholarships
 
 ```
@@ -285,7 +283,9 @@ Client-server HRMS using Java RMI with Swing GUI, DTOs, remote interfaces, and p
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<br/>
 
 ## 🌐 &nbsp; Community & Involvement
 
@@ -310,6 +310,6 @@ Client-server HRMS using Java RMI with Swing GUI, DTOs, remote interfaces, and p
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=166534,14532d&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:166534,100:0a1f0f&height=120&section=footer" />
 
 </div>
