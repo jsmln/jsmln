@@ -93,9 +93,8 @@ class Jasmin:
 **Database**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-&nbsp;&nbsp;
-![pgvector](https://img.shields.io/badge/pgvector-16a34a?style=flat-square&logoColor=white)
-![pgcrypto](https://img.shields.io/badge/pgcrypto-166534?style=flat-square&logoColor=white)
+
+![pgvector](https://img.shields.io/badge/pgvector-16a34a?style=flat-square&logoColor=white) ![pgcrypto](https://img.shields.io/badge/pgcrypto-166534?style=flat-square&logoColor=white)
 
 <br/><br/>
 
@@ -112,23 +111,16 @@ class Jasmin:
 **Data & Analytics**
 
 <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
-&nbsp;&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-14532d?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-16a34a?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Fabric](https://img.shields.io/badge/Microsoft_Fabric-166534?style=flat-square&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-14532d?style=flat-square&logo=googlecolab&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-14532d?style=flat-square&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-16a34a?style=flat-square&logo=microsoftexcel&logoColor=white) ![Fabric](https://img.shields.io/badge/Microsoft_Fabric-166534?style=flat-square&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-14532d?style=flat-square&logo=googlecolab&logoColor=white)
 
 <br/><br/>
 
 **Backend, Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=redis,nginx,docker,githubactions&theme=dark" />
-&nbsp;&nbsp;
-![Celery](https://img.shields.io/badge/Celery-166534?style=flat-square&logo=celery&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-166534?style=flat-square&logo=gunicorn&logoColor=white)
-![Java RMI](https://img.shields.io/badge/Java_RMI-14532d?style=flat-square&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-16a34a?style=flat-square&logo=digitalocean&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-166534?style=flat-square&logo=cloudflare&logoColor=white)
+
+![Celery](https://img.shields.io/badge/Celery-166534?style=flat-square&logo=celery&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-166534?style=flat-square&logo=gunicorn&logoColor=white) ![Java RMI](https://img.shields.io/badge/Java_RMI-14532d?style=flat-square&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-16a34a?style=flat-square&logo=digitalocean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-166534?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
