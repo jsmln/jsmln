@@ -247,42 +247,6 @@ Client-server HRMS using Java RMI with Swing GUI, DTOs, remote interfaces, and p
 
 <br/>
 
-## 🏅 &nbsp; Awards & Recognition
-
-```
-🥇  Best in System Requirements and Definition
-    Advanced System Integration and Architecture · BatStateU TNEU · May 2026
-
-🏆  Service Award — Documentations Lead, TechIS
-    9th Gawad Parangal · Batangas State University TNEU – Lipa Campus
-
-🥇  1st Place — Sustainovate: The CICS SDG Pitch Challenge
-    Batangas State University TNEU – Lipa Campus · Nov 2025
-
-🥇  1st Place — YBLL 2.0 Ideathon: Leadership for Impact and Innovation Camp
-    FactSet Office, BGC Taguig · Aug 2025
-
-🥇  1st Place — Coffee Painting: Paglinang sa Filipino at Katutubong Wika
-    Batangas State University TNEU – Lipa Campus · Aug 2025
-```
-
-<br/>
-
-## 🎓 &nbsp; Scholarships
-
-```
-📜  Scholar — Young Banatao Learning Lab (YBLL) 2.0 Workshops
-    FactSet · PhilDev Foundation · Jan – Aug 2025
-
-📜  Scholar — BatStateU TNEU 120th Financial Assistance Program
-    One of 120 university-wide scholars · 2023 – 2027
-
-📜  Participant — AWS PartyRock Battle
-    The Globe Tower, BGC Taguig · 2024
-```
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 <br/>
